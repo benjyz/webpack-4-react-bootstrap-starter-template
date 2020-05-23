@@ -1,4 +1,7 @@
-# Webpack 4 starter boilerplate template with React, Bootstrap 4
+# react starter boilerplate
+
+forked from https://github.com/shivero/webpack-4-react-bootstrap-starter-template
+
 
 > Starter template for projects that use webpack 4 in pair with React, Bootstrap 4 and ES6 Javascript. This project contains configuration for development and production deploy using webpack 4 module bundler and tools which _might_ be helpful
 
